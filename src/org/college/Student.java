@@ -12,4 +12,9 @@ public void studentDept()
 {
 System.out.println("The Student dept is:IT");	
 }
+public void studentDept1() 
+{
+System.out.println("The Student dept is:se");	
+}
+
 }
